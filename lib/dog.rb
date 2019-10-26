@@ -6,3 +6,7 @@ class Dog
     puts "The Dog is sitting"
   end
 end
+
+sookie = Dog.new 
+sookie.bark
+sookie.sit
